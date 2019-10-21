@@ -1,3 +1,5 @@
+CODECOV_TOKEN="4115f969-7e98-4250-8dd4-25ffa7807723"
+
 # Languages https://docs.travis-ci.com/user/languages/java/
 language: java
 jdk: oraclejdk9
@@ -14,3 +16,4 @@ notifications:
       - qThegamEp@gmail.com
     on_success: always # default: change
     on_failure: always # default: always
+
